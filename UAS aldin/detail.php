@@ -21,7 +21,7 @@ $jumlah = mysqli_num_rows($hasil);
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
     <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
-    <title>NinjaWatch</title>
+    <title>BioskopAppi</title>
 </head>
 
 <body>
